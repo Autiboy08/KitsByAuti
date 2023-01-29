@@ -1,2 +1,4 @@
-# autikitbot
-Help for Auti's Kit Bot
+# Commands:
+
+!kit - Bot tps and drops kit
+!position - Bot gives it's current coords
