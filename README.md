@@ -1,4 +1,4 @@
 # Commands:
 
-!kit - Bot tps and drops kit
-!position - Bot gives it's current coords
+- !kit - Bot tps and drops kit
+- !position - Bot gives it's current coords
