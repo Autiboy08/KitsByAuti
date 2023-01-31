@@ -17,7 +17,7 @@ A: Because it's fun :)
 
 # Support:
 
-- Support Discord Coming Soon
+Discord: https://discord.gg/VTWdAcRCQY
 
 # Notice:
 
