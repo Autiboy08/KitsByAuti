@@ -6,14 +6,17 @@
 
 # FAQ:
 
-Q: Is this bot a coord logger?
-A: No, this bot does not log coords in any capacity.
+- Q: Is this bot a coord logger?
+- A: No, this bot does not log coords in any capacity.
 
-Q: Can you release a source?
-A: Nope.
+- Q: Can you release a source?
+- A: Nope.
 
-Q: Why would you make this if it wasn't a coord logger?
-A: Because it's fun :)
+- Q: Why would you make this if it wasn't a coord logger?
+- A: Because it's fun :)
+
+- Q: Why is the bot whitelisted right now?
+- A: The bot is either being spammed too much or is low on kits.
 
 # Support:
 
