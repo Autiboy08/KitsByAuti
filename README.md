@@ -3,6 +3,7 @@
 - !kit - Bot tps and drops kit
 - !position - Bot gives it's current coords
 - !cooldown - Displays the current bot cooldown
+- !discord - Gives the link to the support discord
 
 # FAQ:
 
