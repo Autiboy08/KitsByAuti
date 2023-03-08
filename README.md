@@ -5,7 +5,7 @@
 - -cooldown - Displays the current bot cooldown
 - -discord - Gives the link to the support discord
 - -contact - Posts my discord username and tag
-- -statud <player> - Shows if that player is banned from KitsByAuti
+- -status <player> - Shows if that player is banned from KitsByAuti
 
 # FAQ:
 
