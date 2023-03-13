@@ -7,6 +7,9 @@
 - -contact - Posts my discord username and tag
 - -status <player> - Shows if that player is banned from KitsByAuti
 - -dupe - Links you to a video on how to dupe
+- -tps - Shows the server's tps (INACCURATE)
+- -ping - Shows the bot's ping
+- -cringescale <player> - Tells you how cringe a player is
 
 # FAQ:
 
