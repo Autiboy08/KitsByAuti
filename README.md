@@ -32,3 +32,15 @@ Discord: https://discord.gg/VTWdAcRCQY
 # Notice:
 
 Do not ask for my bot's source here, you won't get it :)
+
+# Privacy Policy
+This bot does not collect any information not shown below. Here is the data KitsByAuti collects:
+
+- All public 0b0t chat messages and message to KitsByAut.
+> This is used to forward the messages to the KitsByAuti chatbridge and for debugging reasons.
+- Usernames of those who use commands
+> This are used for anyalitical reasons and to avoid spam.
+- Any TP requests sent to the bot
+> These are used to find out who is attempting to tp to the KitsByAuti bases.
+- UUIDs of those banned from the service
+> These are used to stop users from changing their usernames to bypass a ban and will be permanently stored unless they are removed from the banlist.
