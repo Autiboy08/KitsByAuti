@@ -10,6 +10,7 @@
 - -tps - Shows the server's tps (INACCURATE)
 - -ping - Shows the bot's ping
 - -cringescale <player> - Tells you how cringe a player is
+- -coinflip - Flips a coin
 
 # FAQ:
 
