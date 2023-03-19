@@ -32,7 +32,7 @@ Discord: https://discord.gg/VTWdAcRCQY
 # Privacy Policy
 This bot does not collect any information not shown below. Here is the data KitsByAuti collects:
 
-- All public 0b0t chat messages and message to KitsByAut.
+- All public 0b0t chat messages and private messages to KitsByAuti.
 > This is used to forward the messages to the KitsByAuti chatbridge and for debugging reasons.
 - Usernames of those who use commands
 > This are used for anyalitical reasons and to avoid spam.
