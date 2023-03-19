@@ -29,10 +29,6 @@
 
 Discord: https://discord.gg/VTWdAcRCQY
 
-# Notice:
-
-Do not ask for my bot's source here, you won't get it :)
-
 # Privacy Policy
 This bot does not collect any information not shown below. Here is the data KitsByAuti collects:
 
