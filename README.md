@@ -1,17 +1,17 @@
 # Commands
 
 ### In Game Commands:
-> -kit - Bot tps and drops kit
-> -position - Bot gives it's current "coords"
-> -cooldown - Displays the current kit cooldown
-> -discord - Gives the link to the support discord
-> -contact - Posts my discord username and tag
-> -status <player> - Shows if that player is banned from KitsByAuti
-> -dupe - Links you to a video on how to dupe
-> -tps - Shows the server's tps (INACCURATE)
-> -ping - Shows the bot's ping
-> -cringescale <player> - Tells you how cringe a player is
-> -coinflip - Flips a coin
+> - `-kit` Bot tps and drops kit
+> - `-position` Bot gives it's current "coords"
+> - `-cooldown` Displays the current kit cooldown
+> - `-discord` Gives the link to the support discord
+> - `-contact` Posts my discord username and tag
+> - `-status <player>` Shows if that player is banned from KitsByAuti
+> - `-dupe` Links you to a video on how to dupe
+> - `-tps` Shows the server's tps (INACCURATE)
+> - `-ping` Shows the bot's ping
+> - `-cringescale <player>` Tells you how cringe a player is
+> - `-coinflip` Flips a coin
 
 # FAQ:
 
