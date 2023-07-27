@@ -24,24 +24,23 @@
 > - The bot may be out of stock. This is a rare event, so it will be restocked shortly.
 
 ### Is there a public source availible?
-> - As of right now, this project is closed source. If you would like to assist with the bot's development, you may contact me on Discord (hecker#3157).
+> - As of right now, this project is closed source. If you would like to assist with the bot's development, you may contact me on Discord (autiboy08).
 
 # Privacy Policy
 This bot does not collect any information not shown below. Here is the data KitsByAuti collects:
 
 - All public 0b0t chat messages and private messages to KitsByAuti.
 > This is used to forward the messages to the KitsByAuti chatbridge and for debugging reasons.
-- Usernames of those who use commands
+- Usernames and UUIDs of players online
 > This are used for anyalitical reasons and to avoid spam.
 - Any TP requests sent to the bot
 > These are used to find out who is attempting to tp to the KitsByAuti bases.
-- UUIDs of those banned from the service
-> These are used to stop users from changing their usernames to bypass a ban and will be permanently stored unless they are removed from the banlist.
 
 # Terms of Service
 
 - Do not spam the -kit command. Only use it for it's general purpose. If you are caught spamming `-kit` to fill your stashes (It won't be hard, see the above Privacy Policy), you will be banned from the service.
 
 - Do not make any attempt to kick, crash, rate limit or otherwise negativley impact the bot.
+
 
 `If you are caught breaking these rules, you will be banned from the KitsByAuti service.`
