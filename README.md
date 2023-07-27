@@ -20,11 +20,11 @@
 ### It says I have been banned from the service, how could I appeal?
 > - You have been banned from the service for breaking the TOS stated below. You may appeal in our official [Discord Server](https://discord.gg/jQcKWpJAaS).
 
-### The bot didn't drop a kit, is this a bug?
-> - The bot may be out of stock. This is a rare event, so it will be restocked shortly.
-
 ### Is there a public source availible?
 > - As of right now, this project is closed source. If you would like to assist with the bot's development, you may contact me on Discord (autiboy08).
+
+### The bot is out of stock!
+> - If the bot is out of stock, I will be notified and it should be restocked shortly.
 
 # Privacy Policy
 This bot does not collect any information not shown below. Here is the data KitsByAuti collects:
