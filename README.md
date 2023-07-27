@@ -36,7 +36,7 @@ This bot does not collect any information not shown below. Here is the data Kits
 - Any TP requests sent to the bot
 > These are used to find out who is attempting to tp to the KitsByAuti bases.
 
-`This data is stored permanently as it is not, in of itself personally identifiable.`
+`This data is stored permanently as it is not (in of itself) personally identifiable.`
 
 # Terms of Service
 
