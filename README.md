@@ -36,6 +36,8 @@ This bot does not collect any information not shown below. Here is the data Kits
 - Any TP requests sent to the bot
 > These are used to find out who is attempting to tp to the KitsByAuti bases.
 
+`This data is stored permanently as it is not, in of itself personally identifiable.`
+
 # Terms of Service
 
 - Do not spam the -kit command. Only use it for it's general purpose. If you are caught spamming `-kit` to fill your stashes (It won't be hard, see the above Privacy Policy), you will be banned from the service.
