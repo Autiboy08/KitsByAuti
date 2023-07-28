@@ -1,5 +1,6 @@
 <div align="center">
 <h1>KitsByAuti Documentation</h1>
+</div>
 
 # Commands
 
