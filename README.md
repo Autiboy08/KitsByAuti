@@ -1,3 +1,6 @@
+<div align="center">
+<h1>KitsByAuti Documentation</h1>
+
 # Commands
 
 ### In Game Commands:
