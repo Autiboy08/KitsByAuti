@@ -1,5 +1,6 @@
 <div align="center">
-<h1>KitsByAuti Documentation</h1>
+<h1>THIS GITHUB REPO IS NOW RETIRED! PLEASE USE THE KITSBYAUTI WEBSITE FOR UPDATED DOCS!</h1>
+<h2>KitsByAuti Documentation</h1>
 </div>
 
 # Commands
