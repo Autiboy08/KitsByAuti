@@ -36,6 +36,8 @@
 ### The bot is out of stock!
 > - If the bot is out of stock, I will be notified and it should be restocked shortly.
 
+<h1>THIS GITHUB REPO IS NOW RETIRED! PLEASE USE THE KITSBYAUTI WEBSITE FOR UPDATED DOCS!</h1>
+
 # Privacy Policy
 This bot does not collect any information not shown below. Here is the data KitsByAuti collects:
 
@@ -46,6 +48,8 @@ This bot does not collect any information not shown below. Here is the data Kits
 - Any TP requests sent to the bot
 > These are used to find out who is attempting to tp to the KitsByAuti bases.
 
+<h1>THIS GITHUB REPO IS NOW RETIRED! PLEASE USE THE KITSBYAUTI WEBSITE FOR UPDATED DOCS!</h1>
+
 `This data is stored permanently as it is not (in of itself) personally identifiable.`
 
 # Terms of Service
@@ -54,5 +58,6 @@ This bot does not collect any information not shown below. Here is the data Kits
 
 - Do not make any attempt to kick, crash, rate limit or otherwise negativley impact the bot.
 
+<h1>THIS GITHUB REPO IS NOW RETIRED! PLEASE USE THE KITSBYAUTI WEBSITE FOR UPDATED DOCS!</h1>
 
 `If you are caught breaking these rules, you will be banned from the KitsByAuti service.`
