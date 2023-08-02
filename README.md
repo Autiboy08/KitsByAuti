@@ -1,9 +1,12 @@
 <div align="center">
 <h1>THIS GITHUB REPO IS NOW RETIRED! PLEASE USE THE KITSBYAUTI WEBSITE FOR UPDATED DOCS!</h1>
 <h2>KitsByAuti Documentation</h1>
+<h1>THIS GITHUB REPO IS NOW RETIRED! PLEASE USE THE KITSBYAUTI WEBSITE FOR UPDATED DOCS!</h1>
 </div>
 
 # Commands
+
+<h1>THIS GITHUB REPO IS NOW RETIRED! PLEASE USE THE KITSBYAUTI WEBSITE FOR UPDATED DOCS!</h1>
 
 ### In Game Commands:
 > - `-kit` Bot tps and drops kit
@@ -17,6 +20,8 @@
 > - `-ping` Shows the bot's ping
 > - `-cringescale <player>` Tells you how cringe a player is
 > - `-coinflip` Flips a coin
+
+<h1>THIS GITHUB REPO IS NOW RETIRED! PLEASE USE THE KITSBYAUTI WEBSITE FOR UPDATED DOCS!</h1>
 
 # FAQ
 ### Does this bot log coords?
